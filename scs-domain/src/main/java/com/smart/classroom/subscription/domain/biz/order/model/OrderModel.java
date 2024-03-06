@@ -9,6 +9,8 @@ import lombok.NoArgsConstructor;
 import java.util.Date;
 
 /**
+ * 数据库表的实体类
+ *
  * @author lishuang
  * @date 2023-05-12
  */

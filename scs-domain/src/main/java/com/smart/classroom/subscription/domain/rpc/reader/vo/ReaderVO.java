@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 import java.util.Date;
 
 /**
+ * 值对象
  * @author lishuang
  * @date 2023-05-15
  */
